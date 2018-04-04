@@ -1,0 +1,18 @@
+[submodule "ecspizza-presentation"]
+	path = ecspizza-presentation
+	url = git@github.com:dysfunctionals/ecspizza-presentation.git
+[submodule "ecspizza-android"]
+	path = ecspizza-android
+	url = git@github.com:dysfunctionals/ecspizza-android.git
+[submodule "ecspizza-flask"]
+	path = ecspizza-flask
+	url = git@github.com:dysfunctionals/ecspizza-flask.git
+[submodule "ecspizza-fingerprint"]
+	path = ecspizza-fingerprint
+	url = git@github.com:dysfunctionals/ecspizza-fingerprint.git
+[submodule "ecspizza-ispizza"]
+	path = ecspizza-ispizza
+	url = git@github.com:dysfunctionals/ecspizza-ispizza.git
+[submodule "ecspizza-art"]
+	path = ecspizza-art
+	url = git@github.com:dysfunctionals/ecspizza-art.git
